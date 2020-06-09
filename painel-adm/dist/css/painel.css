@@ -1,0 +1,11 @@
+.direita{
+    position:fixed;
+    right: 0;
+    margin-right: 15px;
+}
+.tabelas{
+    font-size:14px;
+}
+.classe_ativa_pag{
+    color: #4f0a0f;
+}
